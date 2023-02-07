@@ -1,0 +1,25 @@
+{
+  "name": "rn-collapsible-section",
+  "version": "1.0.0",
+  "description": "A simple collapsible section or a list item which can be collapsed with custom body.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'test'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/m3eng/reactnative-collapsible-section-template.git"
+  },
+  "keywords": [
+    "section",
+    "collapsible",
+    "animatable",
+    "react",
+    "native",
+    "android",
+    "ios",
+    "simple"
+  ],
+  "author": "m3eng",
+  "license": "ISC"
+}
